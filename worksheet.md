@@ -2,7 +2,7 @@
 
 Clone this repository (well done!)
 
-# Task 1
+# Task 1 [Completed!]
 
 Take a look at the two repositories:
 
@@ -25,7 +25,7 @@ And answer the following questions about them:
       **REPO A src Directory**
       **REPO B docker_dev.sh**
 
-# Task 2
+# Task 2 - [Completed!]
 
 The repository you just cloned is a VSCode project, so lets work with it.  It currently will print "Hello World" message to the console when run.
 
@@ -37,7 +37,7 @@ Modify the application so that instead it prints
 Red vs. Blue
 ~~~~~
 
-# Task 3
+# Task 3 - [Completed!]
 
 Draw a 20 by 20 grid on a 720x720 window.  Each cell in the grid should be 35 pixels high and wide and the grid should be drawn 10 pixels off the top and left borders of the screen.  To do this, you should use the `Graphics` class from the Java libraries.  Be sure to consult the tips video for this task (it is a link in iLearn).  Without it, you will be very confused.
 
