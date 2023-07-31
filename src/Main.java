@@ -32,6 +32,7 @@ public class Main extends JFrame {
             //     }
             // }
         }
+
     }
     //Creating  contructor for our class
     private Main(){
